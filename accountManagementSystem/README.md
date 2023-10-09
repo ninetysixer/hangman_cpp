@@ -10,5 +10,3 @@ You can:
  7. Update an account
 
 ![bankaccount](https://github.com/semihdursungul/cpp_projects/assets/114025283/88b9ed15-711a-4b77-9fa4-c6292247e896)
-
-
